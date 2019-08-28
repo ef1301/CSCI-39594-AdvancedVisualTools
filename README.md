@@ -41,6 +41,8 @@ Field | Value
 **Office hours:** | TBD
 **Semester:** | Fall 2019
 **Section:** | CSCI 39594
+**Class Sessions:** | Mondays and Thursdays, 11:10am-12:25pm
+**Classroom:** | HN-C107
 
 ## Course Description
 
