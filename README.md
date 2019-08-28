@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-   * [CSCI 46000/79521: Advanced Programming Languages](#csci-4600079521-advanced-programming-languages)
+   * [CSCI 39594: Advanced Visual Tools](#csci-39594-advanced-visual-tools)
       * [Details](#details)
       * [Course Description](#course-description)
       * [Outline and Schedule of Course Topics](#outline-and-schedule-of-course-topics)
@@ -11,7 +11,7 @@
       * [<a href="https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951" rel="nofollow">Textbooks</a>](#textbooks)
       * [Grading](#grading)
       * [Key Dates](#key-dates)
-      * [Homework](#homework)
+      * [Project](#project)
          * [Notes](#notes)
       * [Exams](#exams)
       * [Attendance](#attendance)
@@ -34,45 +34,45 @@ Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
 
 Field | Value
 ----- | -----
-**Instructor:** | [Raffi Khatchadourian](http://www.cs.hunter.cuny.edu/~Raffi.Khatchadourian99) 
-**Office:** | 1090H Hunter North Building
-**Email:** | [raffi.khatchadourian@hunter.cuny.edu](mailto:raffi.khatchadourian@hunter.cuny.edu)
-**Phone:** | (212) 650-3988
-**Office hours:** | Th 3:00-5:00 pm or [by appointment](http://khatchad.commons.gc.cuny.edu/teaching/appointments)
-**Semester:** | Spring 2019
-**Section:** | CSCI 46000/79521-01
-**Grader:** | [Yiming Tang](mailto:ytang3@gradcenter.cuny.edu)
-**Grader office hours:** | [By appointment](https://khatchad.setmore.com/resourcebookingpage/r5cc21551300133063)
+**Instructor:** | [Wole Oyekoya](http://www.wolex.com/) 
+**Office:** | 1001T Hunter North Building
+**Email:** | [hunter@wolex.com](mailto:hunter@wolex.com)
+**Phone:** | TBD
+**Office hours:** | TBD
+**Semester:** | Fall 2019
+**Section:** | CSCI 39594
 
 ## Course Description
 
-This course is intended to be a survey on the fundamental concepts and principles that underlie current and emerging methods, tools, and techniques for the design and implementation of modern programming languages. This includes the understanding and appreciation of topics in designing and implementing modern programming languages such as attribute grammars, operational, axiomatic, and denotational semantics, (static and dynamic) type systems, and functional programming and its relationship with mainstream Object-Oriented languages, frameworks, and libraries (APIs).
+The course will introduce students to various software and toolkits spanning multiple areas of visualization, which includes 3D (Immersive VR), Information and Scientific Visualization. It will cover basics of how to present data through meaningful visualizations to support decision making.  Participants will learn how to gain keen insight into complex data sets by learning about tools and resources to visualize the expected and discover the unexpected in their data. 
 
 
 ## Outline and Schedule of Course Topics
 
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
-- Attribute grammars 
-- Operational semantics for Lisp
-- Operational semantics for an imperative language	
-- Axiomatic semantics
-- Type systems
-- Concurrency and data structures for concurrent and distributed computing
-- MapReduce and Streaming APIs for mainstream Object-Oriented languages
+- Introduction to Visualization
+- Advanced Visual Analytics with Tableau
+- Using R and Python with Tableau
+- Data Visualization with D3.js 
+- Information Visualization with Gephi
+- Scientific Visualization with ParaView
+- Scientific Visualization with VisIt
+- Scientific Visualization with VMD
+- Immersive Scientific Visualization with Paraview
+- Immersive Virtual Reality with Unity3D
 
 ## Prerequisites
 
-- CSCI 26500: Computer Theory or equivalent.
-- CSCI 33500: Software Analysis and Design III or equivalent.
+- CSCI 23500: Software Analysis and Design II or equivalent.
+- CSCI 26000: Computer Architecture II or equivalent.
+- MATH 15500: Calculus with Analytic Geometry II or equivalent.
 
 ## [Textbooks and Materials](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
 
-While there are no required texts, there are readings from the books listed below. The books without links have been requested from the main campus library as reserves. I will let you know when they become available:
-
 Title | Author | ISBN
 -- | -- | --
-[Formal Specification of Programming Languages: A Panoramic Primer](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=CUNY_ALEPH001651241&context=L&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf)) | Pagan | 9780133290523
+<!--[Formal Specification of Programming Languages: A Panoramic Primer](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=CUNY_ALEPH001651241&context=L&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf)) | Pagan | 9780133290523
 [Formal Syntax and Semantics of Programming Languages](http://www.divms.uiowa.edu/~slonnegr/plf/Book) | Slonneger and Kurtz | 9780201656978
 The Formal Semantics of Programming Languages: An Introduction | Winskel | 9780262231695
 The Study of Programming Languages | Stansifer | 9780137269365
@@ -83,46 +83,41 @@ The Study of Programming Languages | Stansifer | 9780137269365
 [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) | Sussman and Abelson | 9780070004849
 
 Please also refer to [my notes on type constraints][type constraints].
+-->
 
 ## Grading
 
 Category | Percentage
 -------- | ----------
-Assignments | 20%
-Project | 25%
-Participation | 5%
-Midterm Exam | 25%
-Final Exam | 25%
+Project | 50%
+Participation | 10%
+Final Exam | 40%
 
 ## Key Dates
 
 Event | Date
 ----- | ----
-Midterm Exam | March 27
-Withdrawal Deadline | April 1
-Final Exam | May 22 5:20-7:20 pm
+Project Submission | TBD
+Final Exam | TBD
 
-## Homework
+## Project
 
-The course will include several written assignments and one large programming project, possibly submitted in pieces. Each will be assigned in Blackboard along with submission instructions. Assignments will be uploaded to Blackboard and the programming project will be uploaded to GitHub classroom and submitted via gradescope. The exact instructions will follow. The project must include command-line instructions on how to run the program.
+The course will include one group project, possibly submitted in pieces. Further instructions will follow. 
 
 ### Notes
 
-- **Deadlines** and **due dates** for assignments will be assigned in class.
-- **Late assignments will be penalized.**
-- No extensions will be given for extra credit assignments.
-- Assignments are the result of **individual effort** unless otherwise noted (e.g., group projects).
+- **Deadlines** and **due dates** for projects will be assigned in class.
+- **Late submissions will be penalized.**
+- No extensions will be given.
 
 ## Exams
 
-Test make-ups will be given if and only if:
-
-- the request is made sufficiently in advance of the test, and
-- the make-up is scheduled prior to the next class.
+TBD
 
 ## Attendance
 
-Attendance is expected for *each and every class* meeting. Each student is allowed five (5) absences for any reason except on days when there are presentations or exams. Absences exceeding the allowance or absence on a presentation day for any reason results in a 0.2% deduction from the attendance grade.
+Attendance is expected for *each and every class* meeting. 
+<!--Each student is allowed five (5) absences for any reason except on days when there are presentations or exams. Absences exceeding the allowance or absence on a presentation day for any reason results in a 0.2% deduction from the attendance grade.-->
 
 ## Academic Violations
 
@@ -202,12 +197,6 @@ Except for changes that substantially affect implementation of the evaluation (g
 
 ## Instructor Biography
 
-Raffi Khatchadourian is an Assistant Professor in the Computer Science Department at Hunter College and the Graduate Center of the City University of New York (CUNY). He received his MS and PhD degrees in Computer Science from Ohio State University and BS degree in Computer Science from Monmouth University in New Jersey. Prior to joining CUNY, he was a Software Engineer at Apple, Inc. in Cupertino, California, where he worked on Digital Rights Management (DRM) for iTunes, iBooks, and the App store. He also developed distributed software that tested various features of iPhones, iPads, and iPods. His research focus is techniques for automated software evolution, particularly those related to automated refactoring and source code recommendation systems with the goal of easing the burden associated with correctly and efficiently evolving large and complex software.
+Wole Oyekoya is an Associate Professor in the Computer Science Department at Hunter College. He received his Ph.D. from University College London in 2007 for work on eye tracking for image search and retrieval. Prior to joining CUNY, he worked at Clemson University as the Director of Visualization from July 2015 to August 2019, where he was also an Adjunct Assistant Professor with School of Computing. Prior to that, he worked for Advanced Research Computing (Visualization group), Virginia Tech as a Visualization and Virtual Reality Specialist from November 2013 to June 2015. He worked as a Research Associate at Middlesex University on medical image retrieval, followed by the Virtual Environments and Computer Graphics group at University College London. His research expertise includes visualization, virtual reality, eye tracking and visual perception.
 
-<!--
-## Credits
 
-Portions of this syllabus are based off the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science & Engineering, University of Florida by Steve Thebaut.
--->
-
-[type constraints]: https://www.slideshare.net/khatchad/a-brief-introduction-to-type-constraints
