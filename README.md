@@ -1,4 +1,4 @@
-# CSCI 46000/79521: Advanced Programming Languages
+# CSCI 39594: Advanced Visual Tools
 3 hrs, 3 credits. Department of Computer Science, Hunter College, City University of New York.
 
 ## Table of Contents
@@ -61,6 +61,7 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Scientific Visualization with ParaView
 - Scientific Visualization with VisIt
 - Scientific Visualization with VMD
+- Advanced Visualization Displays
 - Immersive Scientific Visualization with Paraview
 - Immersive Virtual Reality with Unity3D
 
