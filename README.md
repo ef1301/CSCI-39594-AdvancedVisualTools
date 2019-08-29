@@ -46,7 +46,18 @@ Field | Value
 
 ## Course Description
 
-The course will introduce students to various software and toolkits spanning multiple areas of visualization, which includes 3D (Immersive VR), Information and Scientific Visualization. It will cover basics of how to present data through meaningful visualizations to support decision making.  Participants will learn how to gain keen insight into complex data sets by learning about tools and resources to visualize the expected and discover the unexpected in their data. 
+The course will introduce students to various software and toolkits spanning multiple areas of visualization, which includes 3D (Immersive VR), Information and Scientific Visualization. It will cover basics of how to present data through meaningful visualizations to support decision making.  Students will learn how to gain keen insight into complex data sets by learning about tools and resources to visualize the expected and discover the unexpected in their data. 
+
+### Learning Outcomes
+
+Students completing this course will be able to:
+- Understand fundamental concepts of scientific and information visualization;
+- Use visualization software and tools in the processing and analysis of data from various sources;
+- Combine tools for data manipulation and visualization, to collect, and clean data;
+- Create visualizations of data that are effective for analysis;
+- Analyze and critique examples of visualizations;
+- Choose the most effective visual display for displaying results to diverse audiences
+
 
 
 ## Outline and Schedule of Course Topics
