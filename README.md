@@ -65,6 +65,8 @@ Students completing this course will be able to:
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
 - Introduction to Visualization
+- Immersive 3D Visualization Displays
+- Immersive Virtual Reality with Unity3D
 - Advanced Visual Analytics with Tableau
 - Using R and Python with Tableau
 - Data Visualization with D3.js 
@@ -72,9 +74,7 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Scientific Visualization with ParaView
 - Scientific Visualization with VisIt
 - Scientific Visualization with VMD
-- Advanced Visualization Displays
 - Immersive Scientific Visualization with Paraview
-- Immersive Virtual Reality with Unity3D
 
 ## Prerequisites
 
@@ -141,7 +141,7 @@ Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheating o
 
 This term we will be using [Piazza](http://piazza.com/hunter.cuny) for class discussion. The system is highly catered to getting you help fast and efficiently from classmates and myself. Rather than emailing questions to me, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, please [email them](mailto:team@piazza.com).
 
-Find our class page [here](http://piazza.com/hunter.cuny/spring2019/csci4600079521/home) and [sign up](https://piazza.com/hunter.cuny/spring2019/csci4600079521) for the forum.
+<!--Find our class page [here](http://piazza.com/hunter.cuny/spring2019/csci4600079521/home) and [sign up](https://piazza.com/hunter.cuny/spring2019/csci4600079521) for the forum.-->
 
 ## Email
 
