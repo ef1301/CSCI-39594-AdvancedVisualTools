@@ -38,7 +38,7 @@ Field | Value
 **Office:** | 1001T Hunter North Building
 **Email:** | [hunter@wolex.com](mailto:hunter@wolex.com)
 **Phone:** | TBD
-**Office hours:** | TBD
+**Office hours:** | Email me for an appointment
 **Semester:** | Fall 2019
 **Section:** | CSCI 39594
 **Class Sessions:** | Mondays and Thursdays, 11:10am-12:25pm
@@ -65,8 +65,6 @@ Students completing this course will be able to:
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
 - Introduction to Visualization
-- Immersive 3D Visualization Displays
-- Immersive Virtual Reality with Unity3D
 - Advanced Visual Analytics with Tableau
 - Using R and Python with Tableau
 - Data Visualization with D3.js 
@@ -74,6 +72,8 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Scientific Visualization with ParaView
 - Scientific Visualization with VisIt
 - Scientific Visualization with VMD
+- Immersive 3D Visualization Displays
+- Immersive Virtual Reality with Unity3D
 - Immersive Scientific Visualization with Paraview
 
 ## Prerequisites
@@ -84,20 +84,10 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 
 ## [Textbooks and Materials](https://hunter.textbookx.com/institutional/index.php?action=browse#books/1982951)
 
-Title | Author | ISBN
--- | -- | --
-<!--[Formal Specification of Programming Languages: A Panoramic Primer](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=CUNY_ALEPH001651241&context=L&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) (copy of a [few pages](http://web.cse.ohio-state.edu/~soundarajan.1/courses/6341/pagan.pdf)) | Pagan | 9780133290523
-[Formal Syntax and Semantics of Programming Languages](http://www.divms.uiowa.edu/~slonnegr/plf/Book) | Slonneger and Kurtz | 9780201656978
-The Formal Semantics of Programming Languages: An Introduction | Winskel | 9780262231695
-The Study of Programming Languages | Stansifer | 9780137269365
-[Types and Programming Languages](https://onesearch.cuny.edu/primo-explore/fulldisplay?docid=TN_pq_ebook_centralEBC3338823&context=PC&vid=hc&search_scope=everything&tab=default_tab&lang=en_US) | Pierce | 9780262162098
-[Lisp 1.5 Programmer's Manual](http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf) | McCarthy et al. | 9780262130110
-[Semantics with Applications: A Formal Introduction](http://www.cs.kun.nl/~hubbers/courses/sc_1718/materiaal/wiley.pdf) | Nielson and Nielson | 9780471929802
-[Java SE8 for the Really Impatient](https://doc.lagout.org/programmation/Java/Java%20SE%208%20for%20the%20Really%20Impatient%20%5BHorstmann%202014-01-24%5D.pdf) | Horstmann | 9780321927767
-[Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf) | Sussman and Abelson | 9780070004849
+* Tufte, Edward R. The visual display of quantitative information. Vol. 2. Cheshire, CT: Graphics press, 2001.
+* Agrawala, Maneesh, Wilmot Li, and Floraine Berthouzoz. "Design principles for visual communication." Commun. ACM 54.4 (2011): 60-69.
+* Ayachit, Utkarsh. The paraview guide: a parallel visualization application. Kitware, Inc., 2015.
 
-Please also refer to [my notes on type constraints][type constraints].
--->
 
 ## Grading
 
@@ -111,12 +101,14 @@ Final Exam | 40%
 
 Event | Date
 ----- | ----
-Project Submission | TBD
+One-page Project Proposals due | September 17th @ 10am
+Project Updates | Weekly 
+Project Submission | December 6th @ 12 noon
 Final Exam | TBD
 
 ## Project
 
-The course will include one group project, possibly submitted in pieces. Further instructions will follow. 
+The course will include one group project. Each goup of four will implement a visualization application, which could be based on one of the three areas: (i) Information Visualization, (ii) Scientific Visualization, and (iii) Immersive Visualization. You will will analyze a dataset of your choice using one of the tools that will be taught in class. You can also use other visualization tools, with permission. Each group will be responsible for acquiring data, surveying existing visualization methods, and visualizing your chosen data. A one-page project proposal needs to be submitted that includes the names of individuals within each group, source of dataset and an outline of weekly milestines. The deliverable will include a short report (~3-5 pages) and an application demo.
 
 ### Notes
 
