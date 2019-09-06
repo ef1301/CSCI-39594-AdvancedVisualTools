@@ -36,7 +36,7 @@ Field | Value
 ----- | -----
 **Instructor:** | [Wole Oyekoya](http://www.wolex.com/) 
 **Office:** | 1001T Hunter North Building
-**Email:** | [hunter@wolex.com](mailto:hunter@wolex.com)
+**Email:** | [oyewole.oyekoya@hunter.cuny.edu](mailto:oyewole.oyekoya@hunter.cuny.edu)
 **Phone:** | TBD
 **Office hours:** | Email me for an appointment
 **Semester:** | Fall 2019
