@@ -64,7 +64,7 @@ Students completing this course will be able to:
 
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
-- [Introduction to Visualization](IntroductionToVisualization.pdf)
+- Introduction to Visualization
 - Advanced Visual Analytics with Tableau
 - Using R and Python with Tableau
 - Data Visualization with D3.js 
