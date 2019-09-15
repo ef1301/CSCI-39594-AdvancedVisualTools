@@ -66,8 +66,8 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 
 - Introduction to Visualization
 - Advanced Visual Analytics with Tableau
-- Using R and Python with Tableau
 - Data Visualization with D3.js 
+- Using R and Python with Tableau
 - Information Visualization with Gephi
 - Scientific Visualization with ParaView
 - Scientific Visualization with VisIt
