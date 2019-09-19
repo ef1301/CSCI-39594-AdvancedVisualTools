@@ -67,9 +67,9 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Introduction to Visualization
 - Advanced Visual Analytics with Tableau
 - Data Visualization with D3.js 
+- Scientific Visualization with ParaView
 - Using R and Python with Tableau
 - Information Visualization with Gephi
-- Scientific Visualization with ParaView
 - Scientific Visualization with VisIt
 - Scientific Visualization with VMD
 - Immersive 3D Visualization Displays
@@ -86,7 +86,12 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 
 * Tufte, Edward R. The visual display of quantitative information. Vol. 2. Cheshire, CT: Graphics press, 2001.
 * Agrawala, Maneesh, Wilmot Li, and Floraine Berthouzoz. "Design principles for visual communication." Commun. ACM 54.4 (2011): 60-69.
+* Tableau, https://www.tableau.com/
+* D3.js, https://d3js.org/
+* Zhu, Nick Qi. Data visualization with D3. js cookbook. Packt Publishing Ltd, 2013.
+* Paraview, https://www.paraview.org/
 * Ayachit, Utkarsh. The paraview guide: a parallel visualization application. Kitware, Inc., 2015.
+
 
 
 ## Grading
