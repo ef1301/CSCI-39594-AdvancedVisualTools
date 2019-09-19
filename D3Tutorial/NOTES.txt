@@ -1,0 +1,29 @@
+Basic understanding of HTML, CSS, Javascript
+
+D3.js allows you to manipulate HTML elements dynamically with javascript based on input data to create visualizations
+
+Website: d3js.org
+
+API
+
+This example will lead you step-by-step to build an animated bar chart with dynamic data. For each step, you should view source: each new piece of code will be annotated with a comment.
+
+00_dom.html — Simple elements in the DOM
+01_svg.html — Simple demo of SVG elements
+02_page_template.html — An empty page great for testing D3 code right in the console
+03_data_simple.html — Data types and generating random values
+	try out d3.min, d3.max, etc.
+04_data_from_csv.html — Loading data from CSV and JSON files
+05_create_bars.html — Creating SVG elements from data!
+06_add_scale.html — Adding a scale for data flexibility
+07_add_hover.html — Adding mouse interactivity
+08_transition_color.html — An arbitrary color transition
+09_data_update.html — Updating the data set (without a transition)
+10_data_transition.html — Transitioning bars to new values
+11_data_transition_with_key.html — Using a key with a data join
+12_exit.html — Transitioning bars and removing outgoing elements
+
+Youtube tutorials
+
+Complex Examples
+http://www.verisi.com/resources/d3-tutorial-basic-charts.htm
