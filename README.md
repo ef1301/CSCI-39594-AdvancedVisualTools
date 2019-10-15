@@ -37,7 +37,7 @@ Field | Value
 **Instructor:** | [Wole Oyekoya](http://www.wolex.com/) 
 **Office:** | 1001T Hunter North Building
 **Email:** | [oyewole.oyekoya@hunter.cuny.edu](mailto:oyewole.oyekoya@hunter.cuny.edu)
-**Phone:** | TBD
+**Phone:** | (212) 396-6837
 **Office hours:** | Email me for an appointment
 **Semester:** | Fall 2019
 **Section:** | CSCI 39594
@@ -68,12 +68,12 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Advanced Visual Analytics with Tableau
 - Data Visualization with D3.js 
 - Scientific Visualization with ParaView
+- 3D Visualization and VR/AR/MR 
 - Using R and Python with Tableau
 - Information Visualization with Gephi
 - Scientific Visualization with VisIt
 - Scientific Visualization with VMD
 - Immersive 3D Visualization Displays
-- Immersive Virtual Reality with Unity3D
 - Immersive Scientific Visualization with Paraview
 
 ## Prerequisites
