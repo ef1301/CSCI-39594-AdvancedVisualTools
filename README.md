@@ -38,7 +38,7 @@ Field | Value
 **Office:** | 1001T Hunter North Building
 **Email:** | [oyewole.oyekoya@hunter.cuny.edu](mailto:oyewole.oyekoya@hunter.cuny.edu)
 **Phone:** | (212) 396-6837
-**Office hours:** | Email me for an appointment
+**Office hours:** | Mondays and Thursdays, 10:00am-11:00am
 **Semester:** | Fall 2019
 **Section:** | CSCI 39594
 **Class Sessions:** | Mondays and Thursdays, 11:10am-12:25pm
@@ -65,16 +65,17 @@ Students completing this course will be able to:
 Please note that this schedule is tentative and is meant to serve only as a guide:
 
 - Introduction to Visualization
+- Visualization Challenges
 - Advanced Visual Analytics with Tableau
+- Machine Learning with R/Python and Tableau
 - Data Visualization with D3.js 
-- Scientific Visualization with ParaView
-- 3D Visualization and VR/AR/MR 
-- Using R and Python with Tableau
 - Information Visualization with Gephi
+- Scientific Visualization with ParaView
 - Scientific Visualization with VisIt
 - Scientific Visualization with VMD
+- 3D Visualization and VR/AR/MR 
 - Immersive 3D Visualization Displays
-- Immersive Scientific Visualization with Paraview
+- High Performance Visualization 
 
 ## Prerequisites
 
