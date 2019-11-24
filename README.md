@@ -75,7 +75,6 @@ Please note that this schedule is tentative and is meant to serve only as a guid
 - Scientific Visualization with VMD
 - 3D Visualization and VR/AR/MR 
 - Immersive 3D Visualization Displays
-- High Performance Visualization 
 
 ## Prerequisites
 
